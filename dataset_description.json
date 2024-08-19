@@ -1,0 +1,7 @@
+{
+  "Authors": ["Yan Wu","Chunguang Tao"],
+  "Name": "RawEEG",
+  "License": "CC0",
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.1.1"
+}
