@@ -7,7 +7,8 @@
     "Name": "Fatigue Characterization of EEG under Mixed Reality Stereo Vision",
     "License": "CC0",
     "ReferencesAndLinks": [
-        ""
+        "",
+        "https://doi.org/10.3390/brainsci14111126"
     ],
     "BIDSVersion": "1.1.1",
     "Funding": [
